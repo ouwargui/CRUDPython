@@ -1,2 +1,2 @@
 # CRUDPython
-Pequeno CRUD para blog.
+Pequeno CRUD para blog desenvolvido em Django.
